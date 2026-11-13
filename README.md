@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-graffiti.png" alt="Pop-art graffiti banner in cyan, magenta, coral, yellow, and black" width="100%" />
+  <img src="profile-monochrome.png" alt="Black-and-white portrait with subtle film grain and scratches" width="100%" />
 </p>
 
 <h1 align="center">ECHO</h1>
@@ -11,10 +11,7 @@
   <a href="https://github.com/isharik">GITHUB</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILDING-PHAROS%20TOOLS-101116?style=for-the-badge&labelColor=101116&color=00d9e8" alt="Building Pharos tools" />
-  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-101116?style=for-the-badge&labelColor=101116&color=ff3e9d" alt="Full stack focus" />
-</p>
+<p align="center"><sub>BUILDING STUFF &nbsp;·&nbsp; FULL STACK &nbsp;·&nbsp; PHAROS ECOSYSTEM</sub></p>
 
 ---
 
@@ -89,12 +86,7 @@ I like building the full path from interface to infrastructure: a clear UI, usef
 
 ## GitHub activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isharik&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=ff3e9d&icon_color=00d9e8&text_color=d7dce5&rank_icon=github" alt="GitHub statistics for isharik" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharik&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff3e9d&text_color=d7dce5" alt="Most used programming languages" />
-</p>
-
-<p align="center"><sub>My contribution graph and activity are just below this profile README.</sub></p>
+GitHub shows my live contribution graph and activity feed below this README.
 
 ## Find me
 
@@ -105,5 +97,7 @@ I like building the full path from interface to infrastructure: a clear UI, usef
 - **Discord:** `@echoplex99`
 
 <p align="center"><sub>Build boldly. Verify the details. Keep the user in control.</sub></p>
+
+
 
 
